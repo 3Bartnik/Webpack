@@ -16,8 +16,4 @@ let myIcon = new Image();
 myIcon.src = Icon;
 document.querySelector("div").appendChild(myIcon);
 
-import Icon from "./assets/img/proba.png"
-let myIcon = new Image();
-myIcon.src = Icon;
-document.querySelector("div").appendChild(myIcon);
 
